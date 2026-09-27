@@ -1,5 +1,9 @@
 body {
-    background-color: #C0C0C0;
+    background: linear-gradient(180deg, #4A5568 0%, #1A202C 100%);
+    
+    background-attachment: fixed;
+    min-height: 100vh;
+    
     margin: 0;
     padding: 20px; 
 }
